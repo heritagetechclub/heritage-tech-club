@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-07-16
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Heritage
+        Technology Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Heritage Technology Club** is an alumni and student-led club at Heritage Institute of Technology. The goal is of the club to educate the student community about the technology industry and to support and provide resources to HIT students pursuing careers in this industry. By helping build the tech community within Heritage, the HTC aims to create a long-lasting community for its members.
   
   - block: collection
     content:
