@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer 
-      institution: Stanford University
-      year: 2012
+    - course: MBA Candidate 
+      institution: Booth School of Business, University of Chicago
+      year: 2025
     - course: MS in Computer Science
       institution: Georgia Institute of Technology
       year: 2021
@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'aghosh21@chicagobooth.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
