@@ -5,7 +5,7 @@
 
 main:
   - name: Initiatives
-    url: post
+    url: initiatives
     weight: 20
   - name: People
     url: people
@@ -19,6 +19,6 @@ main:
   - name: Career Resources
     url: careerresources
     weight: 20
-  - name: Contact
-    url: contact
-    weight: 60
+  # - name: Contact
+  #   url: contact
+  #   weight: 60
