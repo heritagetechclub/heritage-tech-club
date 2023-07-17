@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.chicagobooth.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Developer Tooling
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'aghosh21@chicagobooth.edu'
+    link: 'mailto:ghosharthita95@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -71,5 +71,5 @@ user_groups:
 
 Arthita Ghosh is an MBA Candidate at the Booth School of Business, University of Chicago. Prior to this, she was a software engineer working on query engine optimization at Tableau, Salesforce in San Francisco. 
 
-Fun facts: She used to play basketball at the national level.
+Fun fact: She used to play basketball at the national level.
 
