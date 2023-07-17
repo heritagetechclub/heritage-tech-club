@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-founders
+  - Co-chairs
 ---
 
 Arthita Ghosh is an MBA Candidate at the Booth School of Business, University of Chicago. Prior to this, she was a software engineer working on query engine optimization at Tableau, Salesforce in San Francisco. 
